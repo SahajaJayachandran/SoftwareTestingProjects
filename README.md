@@ -87,15 +87,15 @@ Located in the `Test_Results/` folder. Includes:
 
 ---
 
-## 🚀 How to Use
-
-1. Clone the repository.
-2. Review the `Test_Plan/` to understand the scope.
-3. Execute test cases in `Test_Cases/` against your AUT.
-4. Log bugs in `Bug_Reports/` if any issues are found.
-5. Record your execution results in `Test_Results/`.
-
----
+  ## 🚀 How to Use
+  
+  1. Clone the repository.
+  2. Review the `Test_Plan/` to understand the scope.
+  3. Execute test cases in `Test_Cases/` against your AUT.
+  4. Log bugs in `Bug_Reports/` if any issues are found.
+  5. Record your execution results in `Test_Results/`.
+  
+  ---
 
 ## 🤝 Contributing
 
